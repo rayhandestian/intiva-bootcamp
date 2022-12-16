@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Second task :D</title>
+	</head>
+	<body>
+		<header>
+			<h1>Gambar dengan Hyperlink</h1>
+		</header>
+		<section>
+			<a href="https://www.instagram.com/academy_up22/"><img src="instagramLogo.webp" width="256" height="256"></a>
+			<p>Klik gambar di atas untuk menuju instagram AcademyUP!</p>
+			<hr>
+			<ul>
+				<li><a href="https://www.youtube.com/watch?v=BvJYXl2ywUE"><img src="youtubeLogo.png" width="64" height="43"></a></li>
+				<li><a href="https://twitter.com/YouTube"><img src="twitterLogo.png" width="64" height="64"></a></li>
+			</ul>
+		</section>
+	</body>
+<html>
